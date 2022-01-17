@@ -1,3 +1,3 @@
-module github.com/skeptycal/gorepotemplate
+module github.com/skeptycal/gogithub
 
-go 1.16
+go 1.17

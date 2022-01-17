@@ -1,5 +1,3 @@
-package gorepotemplate // import "github.com/skeptycal/gorepotemplate"
-
-Package gorepotemplate contains utilities for macOS.
+package gogithub // import "github.com/skeptycal/gogithub"
 
 func Example()
